@@ -19,15 +19,31 @@ p.small {
 
 .large {
 	font-size: 108px;
-	margin-left: 5%;
+	display: block;
+	text-align: center;
 }
 
 .files {
+	margin: auto;
 	margin-top: 10px;
+	float: none;
+	display: block;
 }
 
 .group {
 	margin-left: 5%;
 	margin-right: 5%;
+	margin-bottom: 5%;
 	width: 250px;
+	height: 170px;
+	float: left;
+}
+
+.group p {
+	text-align: center;
+}
+
+img.small {
+	width: 340px;
+	height: 200px;
 }
