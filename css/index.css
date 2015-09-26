@@ -1,0 +1,33 @@
+body {
+	width: 80%;
+	margin: auto;
+}
+
+.jumbotron {
+	padding: 5%;
+	border-radius: 8px;
+}
+
+.navbar {
+	margin-top: 20px;
+	border-radius: 8px;
+}
+
+p.small {
+	font-size: 16px;
+}
+
+.large {
+	font-size: 108px;
+	margin-left: 5%;
+}
+
+.files {
+	margin-top: 10px;
+}
+
+.group {
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 250px;
+}
