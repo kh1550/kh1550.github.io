@@ -47,3 +47,7 @@ img.small {
 	width: 340px;
 	height: 200px;
 }
+
+a:hover {
+	text-decoration: none;
+}
